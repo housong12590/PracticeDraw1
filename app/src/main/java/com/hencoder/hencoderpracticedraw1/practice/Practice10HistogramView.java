@@ -26,5 +26,7 @@ public class Practice10HistogramView extends View {
 
 //        综合练习
 //        练习内容：使用各种 Canvas.drawXXX() 方法画直方图
+
+
     }
 }
